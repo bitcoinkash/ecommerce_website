@@ -1,4 +1,4 @@
-[Demo Link](https://ekomerse.netlify.app/cart)
+[Demo Link](https://ekomerse.netlify.app/)
 
 # Getting Started with Create React App
 
